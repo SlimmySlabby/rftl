@@ -2,8 +2,8 @@
 {
   "modid": "rftl",
   "name": "Rotten Flesh to Leather",
-  "description": "Smelt rotten flesh to leather",
+  "description": "Allows players to smelt rotten flesh into leather",
   "authorList": ["SlimmySlabby"],
-  "url": ""
+  "url": "https://www.curseforge.com/minecraft/mc-mods/slimmyslabbys-rotten-flesh-to-leather"
 }
 ]
